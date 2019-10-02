@@ -1,0 +1,25 @@
+CLASSWORK
+Using a method implementation 
+1. Write a java program to convert celsius to farenheit
+note: F= (9/5)c + 32.
+   
+2. Using method overloading, write a java program that has three different methods with three(3) different integer inputs (integer, float, double). Each of these methods should receive two values and return the multiplication of the two values
+
+3. Convert the following 
+if to switch
+{     if(n==1 || n==2) 
+        System.out.println("Good"); 
+    else 
+        if(n==2) 
+            System.out.println("Fair"); 
+        else  
+            System.out.println("Poor"); 
+} 
+
+4. convert 
+for to do-while
+{ 
+    for(int i=1; i<=5; i++) 
+    {   System.out.println(i*i); 
+    } 
+} 
